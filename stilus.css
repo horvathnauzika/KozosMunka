@@ -1,19 +1,23 @@
 .fejlec{
     padding: 10px;
-    background-color: #A92323;
+    background-color: #FBAA60;
     color: rgb(212, 125, 18);
     border: 1px solid black;
 }
 .menu{
     padding: 10px;
-    background-color: #C61F1F;
+    background-color: #FBAA60;
     color: rgb(34, 212, 18);
     border: 1px solid black;
 }
 
+main{
+    color: white;
+}
 article{
     border: 1px solid black;
     padding: 10px;
+    background-color: #A82810;
 }
 body{
     border: 1px solid black;
@@ -25,11 +29,13 @@ aside{
 }
 footer{
     border: 1px solid black;
-    background-color: rgb(15, 148, 44);
+    background-color: #FBAA60;
+    color: #440000;
+    text-align: center;
 }
 .menu a{
     text-decoration: none;/*leszedjük az aláhuzást*/
-    color: white;
+    color: #440000;
    
 }
 .menu a:hover{
@@ -38,7 +44,7 @@ footer{
 
 .menu li:hover{
     padding: 10px;
-    background-color: #DC4949;
+    background-color: #F67B50;
 }
 .menu li{
     padding: 10px; 
