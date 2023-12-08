@@ -11,12 +11,6 @@
     border: 1px solid black;
 }
 
-<<<<<<< HEAD
-main{
-    color: white;
-}
-=======
->>>>>>> 4659bfd25f406a531cfdde3a15e900769e4b8a97
 
 article{
     border: 1px solid black;
@@ -66,16 +60,6 @@ h2{
     color: #440000;
 }
 
-<<<<<<< HEAD
-table{
-    text-align: center;
-    color: white;
-    border: 1px solid white;
-    width: 50%;
-}
-td{
-    border: 1px solid white;
-=======
 img{
     width: 100%;
 }
@@ -97,5 +81,4 @@ main{
     grid-template-areas: "h h"
     "a n"
     "f f";
->>>>>>> 4659bfd25f406a531cfdde3a15e900769e4b8a97
 }
