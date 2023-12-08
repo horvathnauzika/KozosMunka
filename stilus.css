@@ -1,12 +1,12 @@
 .fejlec{
     padding: 10px;
-    background-color: red;
-    color: rgb(0, 0, 0);
+    background-color: #A92323;
+    color: rgb(212, 125, 18);
     border: 1px solid black;
 }
 .menu{
     padding: 10px;
-    background-color: rgb(46, 158, 158);
+    background-color: #C61F1F;
     color: rgb(34, 212, 18);
     border: 1px solid black;
 }
@@ -29,7 +29,7 @@ footer{
 }
 .menu a{
     text-decoration: none;/*leszedjük az aláhuzást*/
-    color: blue;
+    color: white;
    
 }
 .menu a:hover{
@@ -38,11 +38,10 @@ footer{
 
 .menu li:hover{
     padding: 10px;
-    background-color: rgb(2, 188, 245);
+    background-color: #DC4949;
 }
 .menu li{
     padding: 10px; 
-    
 }
 
 .menu ul{
@@ -51,4 +50,11 @@ footer{
     display: grid;
     margin: auto;
     grid-template-columns: 1fr  1fr  1fr 1fr/*gombok egyásmellet milyen arányban*/
+}
+
+h1{
+    color: #440000;
+}
+h2{
+    color: #440000;
 }
